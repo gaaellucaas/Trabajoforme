@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  list-style-type: none;
+  padding-left: 250px;
+  padding-right: 50px;
+}
+
+#footer h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#footer p {
+  line-height: 28px;
+  font-size: 12px;
+  margin-right: 14px;
+
+}
