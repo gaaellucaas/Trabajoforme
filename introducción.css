@@ -1,0 +1,45 @@
+#int {
+display: grid;
+grid-template-columns: 1fr 1fr;
+list-style-type: none;
+background-color: #9b9b9b;
+}
+
+#int img {
+padding-left: 25%;
+}
+
+.texto-int p {
+padding-left: 2.5%;
+}
+
+.texto-int h3 {
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 1%;
+  padding-left: 2.5%;
+  padding-top: 5%;
+}
+
+#int2 {
+display: grid;
+grid-template-columns: 1fr 1fr;
+list-style-type: none;
+background-color: #9b9b9b;
+}
+
+#int2 img {
+padding-left: 25%;
+}
+
+.texto-int2 p {
+padding-left: 2.5%;
+}
+
+.texto-int2 h3 {
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 1%;
+  padding-left: 2.5%;
+  padding-top: 5%;
+}

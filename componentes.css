@@ -1,0 +1,23 @@
+body {
+background-color: #9b9b9b;
+}
+
+.texto  p {
+padding-left: 2.5%;
+}
+
+.texto h3 {
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 1%;
+  padding-left: 2.5%;
+  padding-top: 0.5%;
+}
+
+
+#comp {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  list-style-type: none;
+  background-color: #9b9b9b;
+}
