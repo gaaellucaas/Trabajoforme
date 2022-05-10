@@ -14,10 +14,14 @@ padding-left: 2.5%;
   padding-top: 0.5%;
 }
 
-
 #comp {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   list-style-type: none;
   background-color: #9b9b9b;
+}
+
+.comp2 img{
+  height: 150px;
+  width: 120px;
 }
