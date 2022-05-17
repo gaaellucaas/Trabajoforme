@@ -4,3 +4,14 @@
   list-style-type: none;
   background-color: #9b9b9b;
 }
+
+#line-tracking{
+display: grid;
+grid-template-columns: 1fr 1fr;
+list-style-type: none;
+background-color: #9b9b9b;
+}
+
+.foto-tracking{
+padding-left: 50em;
+}
