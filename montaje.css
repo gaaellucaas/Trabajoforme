@@ -1,17 +1,39 @@
-#montaje-motores{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  list-style-type: none;
-  background-color: #9b9b9b;
-}
-
-#line-tracking{
+#paso1 {
 display: grid;
-grid-template-columns: 1fr 1fr;
-list-style-type: none;
 background-color: #9b9b9b;
 }
 
-.foto-tracking{
-padding-left: 50em;
+#paso1 img {
+float: left;
+padding-left: 1.5%;
+}
+
+.texto-paso1 p{
+padding-left: 1.5%;
+}
+
+#paso2 {
+display: grid;
+background-color: #9b9b9b;
+}
+
+#paso2 img {
+float: left;
+padding-left: 1.5%;
+}
+
+.texto-paso2 p {
+  padding-left: 1.5%;
+}
+
+#paso3{
+display: grid;
+background-color: #9b9b9b;
+}
+#paso3 img {
+float: left;
+padding-left: 1.5%;
+}
+.texto-paso3 p{
+padding-left: 1.5%;
 }
