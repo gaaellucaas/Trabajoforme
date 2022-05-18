@@ -1,39 +1,13 @@
-#paso1 {
+#paso {
 display: grid;
 background-color: #9b9b9b;
 }
 
-#paso1 img {
+#paso img {
 float: left;
 padding-left: 1.5%;
 }
 
-.texto-paso1 p{
-padding-left: 1.5%;
-}
-
-#paso2 {
-display: grid;
-background-color: #9b9b9b;
-}
-
-#paso2 img {
-float: left;
-padding-left: 1.5%;
-}
-
-.texto-paso2 p {
-  padding-left: 1.5%;
-}
-
-#paso3{
-display: grid;
-background-color: #9b9b9b;
-}
-#paso3 img {
-float: left;
-padding-left: 1.5%;
-}
-.texto-paso3 p{
+.texto-paso p{
 padding-left: 1.5%;
 }
