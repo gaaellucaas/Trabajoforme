@@ -1,10 +1,25 @@
-#paso {
-display: grid;
+.pasos {
 background-color: #9b9b9b;
+padding: 2em;
+
 }
 
-#paso img {
-float: left;
+.paso{
+display: grid;
+
+}
+
+.paso-izquierda {
+  text-align: left;
+
+}
+
+.paso-derecha {
+  text-align: right;
+}
+
+.paso img {
+
 padding-left: 1.5%;
 }
 
