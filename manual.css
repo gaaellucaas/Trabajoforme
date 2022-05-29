@@ -4,16 +4,55 @@ body{
 }
 .todo h1{
   text-align: center;
+  padding-bottom: 2em;
+}
+.todo h2{
+  text-align: center;
+  padding-bottom: 2em;
 }
 
-.Codigo h2 {
+.Funcion{
 text-align: center;
-
 }
-.Codigo img{
-margin-top: 12px;
 
+.Codigo {
+  text-align: center;
+;
 }
-.img {
+.Codigo  a{
+ color: black;
+ font-size: 23px;
+}
 
+.Errores {
+text-align: center;
+}
+
+.Soluciones p{
+text-align: center;
+}
+
+.error1{
+padding-bottom: 3em;
+}
+
+.solucion1{
+padding-bottom: 3em;
+}
+
+.solucion2{
+padding-bottom: 3em;
+}
+
+.error3 a{
+color: black;
+font-size: 23px;
+}
+.Util{
+  text-align: center;
+}
+
+.VIDEO-TUTORIAL a {
+color: black;
+font-size: 23px;
 }
