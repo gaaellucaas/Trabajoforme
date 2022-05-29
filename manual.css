@@ -6,8 +6,12 @@ body{
   text-align: center;
 }
 
-.Codigo{
-  image-orientation: center;
+.Codigo h2 {
+text-align: center;
+
+}
+.Codigo img{
+  align-items: center;
 }
 .img {
 
